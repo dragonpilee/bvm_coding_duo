@@ -38,7 +38,7 @@ To use the Coding Duo 2K23 application locally, follow these steps:
 
 1. Clone the repository to your local machine:
 
-```bash
+
 git clone https://github.com/your-username/coding-duo-2k23.git
 Open the index.html file in your web browser.
 
@@ -55,8 +55,6 @@ Fork the repository.
 
 Clone your forked repository to your local machine:
 
-bash
-Copy code
 git clone https://github.com/your-username/coding-duo-2k23.git
 Make your changes or additions to the HTML, CSS, or JavaScript files.
 
